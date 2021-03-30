@@ -12,7 +12,7 @@ nbviewer.com
 Based on the provided and external data we came up with 3 metrics to rank the countries to provide further insights. Those 3 metrics were a population score, a global health security index and an efficiency score. The population score is calculated by taking the arithmetic mean of a median age score and a population score, benchmarked at a population of 10 million. The global health security index is a comprehensive assessment and benchmarking of health security and related capabilites by the JHU. Further, the efficiency score describes how well a country will distribute the provided vaccinations. 
 
 <p align="center">
-  <img width="600" src="https://github.com/CMWVD/testrep/blob/main/scoring.png">
+  <img width="700" src="https://github.com/CMWVD/testrep/blob/main/scoring.png">
 </p>
 
 
@@ -21,5 +21,5 @@ To further back up this decision with client data, we then looked at the number 
 
 
 <p align="center">
-  <img width="600" src="https://github.com/CMWVD/testrep/blob/main/recommendation.png">
+  <img width="700" src="https://github.com/CMWVD/testrep/blob/main/recommendation.png">
 </p>
