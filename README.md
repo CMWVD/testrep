@@ -15,8 +15,6 @@ Based on the provided and external data we came up with 3 metrics to rank the co
 
 
 After scoring the countries based on the 3 metrics, the best performing country was Sweden. 
+To further back this decision up with client data, we then looked at the number of vaccinations per hundred inhabitants per country after 30 days of their initial vaccination programm start. We were looking for a country with a lower number of vaccinations/hundred, to increase the impact of future vaccinations. Again Sweden took a place at the top of the new benchmark, thus we decided to propose Sweden as the next target for their vaccinations rollout. 
 
 <div style="text-align:center"><img src="https://github.com/CMWVD/testrep/blob/main/recommendation.png" width="600"/></div>
-
-
-To further back this decision up with client data, we then looked at the number of vaccinations per hundred inhabitants per country after 30 days of their initial vaccination programm start. We were looking for a country with a lower number of vaccinations/hundred, to increase the impact of future vaccinations. Again Sweden to a place at the top of the new benchmark, thus we decided to propose Sweden as the next target for their vaccinations rollout. 
