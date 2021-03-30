@@ -11,11 +11,12 @@ Quick summary of our thoughts and decisions:
 
 Based on the provided and external data we came up with 3 metrics to rank the countries to provide further insights. Those 3 metrics were a population score, a global health security index and an efficiency score. The population score is calculated by taking the arithmetic mean of a median age score and a population score, benchmarked at a population of 10 million. The global health security index is a comprehensive assessment and benchmarking of health security and related capabilites by the JHU. Further, the efficiency score describes how well a country will distribute the provided vaccinations. 
 
-<div style="text-align:center"><img src="https://github.com/CMWVD/testrep/blob/main/scoring.png?=250x250" /></div>
+<div style="text-align:center"><img src="https://github.com/CMWVD/testrep/blob/main/scoring.png" width="600"/></div>
 
 
 After scoring the countries based on the 3 metrics, the best performing country was Sweden. 
 
-![](https://github.com/CMWVD/testrep/blob/main/recommendation.png?raw=true)
+<div style="text-align:center"><img src="https://github.com/CMWVD/testrep/blob/main/recommendation.png" width="600"/></div>
+
 
 To further back this decision up with client data, we then looked at the number of vaccinations per hundred inhabitants per country after 30 days of their initial vaccination programm start. We were looking for a country with a lower number of vaccinations/hundred, to increase the impact of future vaccinations. Again Sweden to a place at the top of the new benchmark, thus we decided to propose Sweden as the next target for their vaccinations rollout. 
