@@ -1,5 +1,7 @@
 <iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNzk3YmU4ZDAtNjJkYS00YTY0LWJiYWQtMWVlOTUyOTNjNDY4IiwidCI6ImFmODk4MTBhLTdkNWUtNGRjYS05MThiLTMyY2NlYmUzMTdlMSJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
-
+<p align="center">
+  <img width="700" src="https://app.powerbi.com/view?r=eyJrIjoiNzk3YmU4ZDAtNjJkYS00YTY0LWJiYWQtMWVlOTUyOTNjNDY4IiwidCI6ImFmODk4MTBhLTdkNWUtNGRjYS05MThiLTMyY2NlYmUzMTdlMSJ9&pageName=ReportSection">
+</p>
 
 # QuickJab - Data Analysis
 
