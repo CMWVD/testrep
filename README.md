@@ -1,3 +1,7 @@
+https://app.powerbi.com/view?r=eyJrIjoiNzk3YmU4ZDAtNjJkYS00YTY0LWJiYWQtMWVlOTUyOTNjNDY4IiwidCI6ImFmODk4MTBhLTdkNWUtNGRjYS05MThiLTMyY2NlYmUzMTdlMSJ9&pageName=ReportSection
+
+
+
 # QuickJab - Data Analysis
 
 This is a data analysis community driven project, where one member posed as fictitious client (QuickJab), who contracted a data analytics consulting firm (T7 - Consulting) to investigate their future plans. The mock client QuickJab rolls out vaccinations and was asking for a data driven decision to the following question: <i>In which country should QuickJab distribute a vaccination next?</i> In this project a team of 3 members tried to solve the problem using a dataset provided by the client, which included data about covid19 vaccinations in 126 countries. In the end, the team had to present their findings in a 15 minute presentation to the client. 
