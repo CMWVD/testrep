@@ -1,5 +1,4 @@
-https://app.powerbi.com/view?r=eyJrIjoiNzk3YmU4ZDAtNjJkYS00YTY0LWJiYWQtMWVlOTUyOTNjNDY4IiwidCI6ImFmODk4MTBhLTdkNWUtNGRjYS05MThiLTMyY2NlYmUzMTdlMSJ9&pageName=ReportSection
-
+<iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNzk3YmU4ZDAtNjJkYS00YTY0LWJiYWQtMWVlOTUyOTNjNDY4IiwidCI6ImFmODk4MTBhLTdkNWUtNGRjYS05MThiLTMyY2NlYmUzMTdlMSJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
 
 
 # QuickJab - Data Analysis
